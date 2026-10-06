@@ -1,0 +1,77 @@
+/* Design tokens. Dark values apply automatically, or explicitly via [data-theme]. */
+:root {
+  --bg: #f4f7f5;
+  --surface: #ffffff;
+  --surface-2: #f3f6f4;
+  --ink: #17332d;
+  --text: #223c36;
+  --muted: #5c6f69;
+  --line: #dbe4df;
+  --brand: #1b6852;
+  --brand-strong: #14513f;
+  --brand-soft: #e6f2ea;
+  --brand-line: #8fbca4;
+  --accent: #d8eaa8;
+  --header-bg: #172f2b;
+  --header-ink: #ffffff;
+  --danger: #b53d42;
+  --danger-soft: #fdeeee;
+  --danger-line: #e7b3b4;
+  --warn: #8a5516;
+  --warn-soft: #fff2dc;
+  --warn-line: #eac381;
+  --focus: #2f8f6b;
+  --shadow: 0 1px 2px rgb(16 44 36 / 6%), 0 4px 14px rgb(16 44 36 / 5%);
+  --radius: 12px;
+  color-scheme: light;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --bg: #0e1917;
+    --surface: #15241f;
+    --surface-2: #1b2e28;
+    --ink: #e5f0ec;
+    --text: #cfdeda;
+    --muted: #94aaa3;
+    --line: #2a3f38;
+    --brand: #4cb08a;
+    --brand-strong: #6cc7a3;
+    --brand-soft: #1d3a30;
+    --brand-line: #3f7d63;
+    --header-bg: #0b1412;
+    --danger: #f07b80;
+    --danger-soft: #3a1f21;
+    --danger-line: #7a3b3e;
+    --warn: #e8b36a;
+    --warn-soft: #3a2d17;
+    --warn-line: #7c5a25;
+    --focus: #6cc7a3;
+    --shadow: 0 1px 2px rgb(0 0 0 / 30%);
+    color-scheme: dark;
+  }
+}
+
+:root[data-theme="dark"] {
+  --bg: #0e1917;
+  --surface: #15241f;
+  --surface-2: #1b2e28;
+  --ink: #e5f0ec;
+  --text: #cfdeda;
+  --muted: #94aaa3;
+  --line: #2a3f38;
+  --brand: #4cb08a;
+  --brand-strong: #6cc7a3;
+  --brand-soft: #1d3a30;
+  --brand-line: #3f7d63;
+  --header-bg: #0b1412;
+  --danger: #f07b80;
+  --danger-soft: #3a1f21;
+  --danger-line: #7a3b3e;
+  --warn: #e8b36a;
+  --warn-soft: #3a2d17;
+  --warn-line: #7c5a25;
+  --focus: #6cc7a3;
+  --shadow: 0 1px 2px rgb(0 0 0 / 30%);
+  color-scheme: dark;
+}

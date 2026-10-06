@@ -1,0 +1,1153 @@
+{
+  "title": "Triết học Mác – Lênin",
+  "sourceDocument": "Giáo trình Triết học M-L - 2021.doc",
+  "note": "45 câu hỏi tự biên soạn theo tài liệu do người dùng cung cấp; không phải ngân hàng đề thi chính thức.",
+  "chapters": [
+    {
+      "id": "chuong-1",
+      "title": "Khái luận về triết học và triết học Mác – Lênin",
+      "description": "Nguồn gốc, vấn đề cơ bản và vai trò của triết học.",
+      "questions": [
+        {
+          "id": "chuong-1-q01",
+          "question": "Theo giáo trình, triết học ra đời khoảng thời gian nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Thế kỷ VIII đến thế kỷ VI trước Công nguyên"
+            },
+            {
+              "id": "B",
+              "text": "Thế kỷ I đến thế kỷ III"
+            },
+            {
+              "id": "C",
+              "text": "Thế kỷ XIV đến thế kỷ XVI"
+            },
+            {
+              "id": "D",
+              "text": "Những năm 40 của thế kỷ XIX"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Triết học xuất hiện gần như đồng thời ở phương Đông và phương Tây, khoảng thế kỷ VIII–VI trước Công nguyên.",
+          "source": "Chương 1 · I.1.a · Nguồn gốc của triết học"
+        },
+        {
+          "id": "chuong-1-q02",
+          "question": "Hai nguồn gốc của triết học là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nguồn gốc địa lý và nguồn gốc khí hậu"
+            },
+            {
+              "id": "B",
+              "text": "Nguồn gốc nhận thức và nguồn gốc xã hội"
+            },
+            {
+              "id": "C",
+              "text": "Nguồn gốc sinh học và nguồn gốc di truyền"
+            },
+            {
+              "id": "D",
+              "text": "Nguồn gốc tôn giáo và nguồn gốc nghệ thuật"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Giáo trình xem sự phát triển của tư duy khái quát và các điều kiện xã hội là hai nguồn gốc của triết học.",
+          "source": "Chương 1 · I.1.a · Nguồn gốc của triết học"
+        },
+        {
+          "id": "chuong-1-q03",
+          "question": "Điều kiện nào thể hiện nguồn gốc nhận thức của triết học?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nhà nước hiện đại được thành lập"
+            },
+            {
+              "id": "B",
+              "text": "Mọi khoa học chuyên ngành đã hoàn thiện"
+            },
+            {
+              "id": "C",
+              "text": "Tư duy trừu tượng và năng lực khái quát đạt trình độ nhất định"
+            },
+            {
+              "id": "D",
+              "text": "Máy tính điện tử được phát minh"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Triết học hình thành khi con người có thể khái quát các tri thức riêng lẻ thành quan điểm, phạm trù và lý luận chung.",
+          "source": "Chương 1 · I.1.a · Nguồn gốc của triết học"
+        },
+        {
+          "id": "chuong-1-q04",
+          "question": "Triết học giữ vị trí nào trong thế giới quan?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Toàn bộ các tri thức kỹ thuật"
+            },
+            {
+              "id": "B",
+              "text": "Một bộ phận không có tính lý luận"
+            },
+            {
+              "id": "C",
+              "text": "Sự thay thế cho mọi khoa học cụ thể"
+            },
+            {
+              "id": "D",
+              "text": "Hạt nhân lý luận của thế giới quan"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Triết học khái quát thế giới quan bằng lý luận, giữ vai trò hạt nhân lý luận của thế giới quan.",
+          "source": "Chương 1 · I.1.d · Triết học và thế giới quan"
+        },
+        {
+          "id": "chuong-1-q05",
+          "question": "Vấn đề cơ bản của triết học là mối quan hệ giữa những yếu tố nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vật chất và ý thức"
+            },
+            {
+              "id": "B",
+              "text": "Cung và cầu"
+            },
+            {
+              "id": "C",
+              "text": "Cá nhân và tập thể"
+            },
+            {
+              "id": "D",
+              "text": "Đạo đức và pháp luật"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Theo Ph. Ăngghen, đây là quan hệ giữa tư duy với tồn tại, được diễn đạt bằng quan hệ vật chất và ý thức.",
+          "source": "Chương 1 · I.2 · Vấn đề cơ bản của triết học"
+        },
+        {
+          "id": "chuong-1-q06",
+          "question": "Mặt thứ nhất của vấn đề cơ bản của triết học giải quyết điều gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Xã hội có bao nhiêu giai cấp"
+            },
+            {
+              "id": "B",
+              "text": "Giữa vật chất và ý thức, cái nào có trước và quyết định cái nào"
+            },
+            {
+              "id": "C",
+              "text": "Con người có thể nhận thức thế giới hay không"
+            },
+            {
+              "id": "D",
+              "text": "Nhận thức cảm tính gồm bao nhiêu hình thức"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Mặt thứ nhất hỏi về tính có trước và vai trò quyết định giữa vật chất và ý thức; mặt thứ hai hỏi về khả năng nhận thức.",
+          "source": "Chương 1 · I.2 · Vấn đề cơ bản của triết học"
+        },
+        {
+          "id": "chuong-1-q07",
+          "question": "Chủ nghĩa duy vật khẳng định điều gì khi giải quyết mặt thứ nhất của vấn đề cơ bản?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Vật chất không tồn tại"
+            },
+            {
+              "id": "B",
+              "text": "Vật chất là tổng hợp cảm giác cá nhân"
+            },
+            {
+              "id": "C",
+              "text": "Vật chất có trước và quyết định ý thức"
+            },
+            {
+              "id": "D",
+              "text": "Ý thức có trước và sinh ra vật chất"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Lập trường duy vật thừa nhận vật chất là tính thứ nhất, ý thức là tính thứ hai.",
+          "source": "Chương 1 · I.2.a · Chủ nghĩa duy vật và chủ nghĩa duy tâm"
+        },
+        {
+          "id": "chuong-1-q08",
+          "question": "Quan điểm coi sự vật chỉ là phức hợp của cảm giác thuộc lập trường nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chủ nghĩa duy vật biện chứng"
+            },
+            {
+              "id": "B",
+              "text": "Chủ nghĩa duy vật chất phác"
+            },
+            {
+              "id": "C",
+              "text": "Chủ nghĩa duy vật siêu hình"
+            },
+            {
+              "id": "D",
+              "text": "Chủ nghĩa duy tâm chủ quan"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Duy tâm chủ quan đặt ý thức chủ thể lên trước và phủ nhận sự tồn tại khách quan độc lập của sự vật.",
+          "source": "Chương 1 · I.2.a · Chủ nghĩa duy vật và chủ nghĩa duy tâm"
+        },
+        {
+          "id": "chuong-1-q09",
+          "question": "Mặt thứ hai của vấn đề cơ bản của triết học đề cập đến điều gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Khả năng nhận thức thế giới của con người"
+            },
+            {
+              "id": "B",
+              "text": "Nguồn gốc của lợi nhuận"
+            },
+            {
+              "id": "C",
+              "text": "Cơ cấu của nhà nước"
+            },
+            {
+              "id": "D",
+              "text": "Vật chất có trước hay ý thức có trước"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Mặt thứ hai xem xét con người có thể nhận thức được thế giới hay không.",
+          "source": "Chương 1 · I.2.b · Thuyết có thể biết và thuyết không thể biết"
+        },
+        {
+          "id": "chuong-1-q10",
+          "question": "Phương pháp biện chứng xem xét sự vật như thế nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Không có quan hệ với các sự vật khác"
+            },
+            {
+              "id": "B",
+              "text": "Trong mối liên hệ, vận động và phát triển"
+            },
+            {
+              "id": "C",
+              "text": "Cô lập và hoàn toàn bất biến"
+            },
+            {
+              "id": "D",
+              "text": "Chỉ theo ý muốn chủ quan"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Phương pháp biện chứng chú ý các quan hệ tác động qua lại và quá trình vận động, biến đổi của đối tượng.",
+          "source": "Chương 1 · I.3 · Biện chứng và siêu hình"
+        },
+        {
+          "id": "chuong-1-q11",
+          "question": "Triết học Mác ra đời vào thời kỳ nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Những năm 20 của thế kỷ XVII"
+            },
+            {
+              "id": "B",
+              "text": "Đầu thế kỷ XXI"
+            },
+            {
+              "id": "C",
+              "text": "Những năm 40 của thế kỷ XIX"
+            },
+            {
+              "id": "D",
+              "text": "Thế kỷ VIII trước Công nguyên"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Giáo trình xác định sự ra đời của triết học Mác vào những năm 40 thế kỷ XIX, gắn với điều kiện kinh tế, xã hội và tư tưởng đương thời.",
+          "source": "Chương 1 · II.1 · Sự ra đời và phát triển của triết học Mác – Lênin"
+        },
+        {
+          "id": "chuong-1-q12",
+          "question": "Nhóm phát minh nào là tiền đề khoa học tự nhiên của triết học Mác?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Máy tính, Internet, điện thoại thông minh"
+            },
+            {
+              "id": "B",
+              "text": "Thuyết tương đối, cơ học lượng tử, công nghệ gen"
+            },
+            {
+              "id": "C",
+              "text": "Động cơ phản lực, vệ tinh, công nghệ laser"
+            },
+            {
+              "id": "D",
+              "text": "Bảo toàn và chuyển hóa năng lượng, thuyết tế bào, thuyết tiến hóa"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Ba thành tựu này góp phần chứng minh tính thống nhất, mối liên hệ và sự phát triển của thế giới tự nhiên.",
+          "source": "Chương 1 · II.1 · Tiền đề khoa học tự nhiên"
+        }
+      ]
+    },
+    {
+      "id": "chuong-2",
+      "title": "Chủ nghĩa duy vật biện chứng",
+      "description": "Vật chất và ý thức, phép biện chứng, lý luận nhận thức.",
+      "questions": [
+        {
+          "id": "chuong-2-q01",
+          "question": "Thuộc tính cơ bản để phân biệt vật chất với ý thức trong định nghĩa của V.I. Lênin là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tồn tại khách quan, không lệ thuộc vào cảm giác"
+            },
+            {
+              "id": "B",
+              "text": "Luôn có thể nhìn thấy bằng mắt thường"
+            },
+            {
+              "id": "C",
+              "text": "Luôn có khối lượng rất lớn"
+            },
+            {
+              "id": "D",
+              "text": "Do ý muốn con người tạo ra"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Vật chất được xác định bằng tính tồn tại khách quan, không phụ thuộc việc con người đã nhận biết nó hay chưa.",
+          "source": "Chương 2 · I.1.c · Quan niệm của triết học Mác – Lênin về vật chất"
+        },
+        {
+          "id": "chuong-2-q02",
+          "question": "Theo chủ nghĩa duy vật biện chứng, vận động là gì đối với vật chất?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sản phẩm thuần túy của ý thức"
+            },
+            {
+              "id": "B",
+              "text": "Phương thức tồn tại của vật chất"
+            },
+            {
+              "id": "C",
+              "text": "Một đặc tính chỉ có ở sinh vật"
+            },
+            {
+              "id": "D",
+              "text": "Hiện tượng hoàn toàn tách khỏi vật chất"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Vật chất tồn tại bằng vận động; vận động được hiểu là mọi sự biến đổi nói chung.",
+          "source": "Chương 2 · I.1.d · Phương thức tồn tại của vật chất"
+        },
+        {
+          "id": "chuong-2-q03",
+          "question": "Không gian và thời gian được xem là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Các thực thể hoàn toàn tách khỏi vật chất"
+            },
+            {
+              "id": "B",
+              "text": "Những khái niệm chỉ áp dụng cho xã hội"
+            },
+            {
+              "id": "C",
+              "text": "Các hình thức tồn tại của vật chất"
+            },
+            {
+              "id": "D",
+              "text": "Sản phẩm riêng của trí tưởng tượng"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Không gian và thời gian gắn với vật chất vận động, là các hình thức tồn tại của vật chất.",
+          "source": "Chương 2 · I.1.d · Phương thức tồn tại của vật chất"
+        },
+        {
+          "id": "chuong-2-q04",
+          "question": "Nguồn gốc xã hội trực tiếp của ý thức gắn với yếu tố nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Di truyền và khí hậu"
+            },
+            {
+              "id": "B",
+              "text": "Ánh sáng và nhiệt độ"
+            },
+            {
+              "id": "C",
+              "text": "Bản năng và phản xạ vô điều kiện"
+            },
+            {
+              "id": "D",
+              "text": "Lao động và ngôn ngữ"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Lao động và ngôn ngữ giữ vai trò quan trọng trong sự hình thành ý thức, khiến ý thức mang bản chất xã hội.",
+          "source": "Chương 2 · I.2.a · Nguồn gốc của ý thức"
+        },
+        {
+          "id": "chuong-2-q05",
+          "question": "Bản chất của ý thức được khái quát như thế nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Hình ảnh chủ quan của thế giới khách quan"
+            },
+            {
+              "id": "B",
+              "text": "Bản sao vật chất nguyên vẹn của sự vật"
+            },
+            {
+              "id": "C",
+              "text": "Thực thể độc lập sinh ra thế giới"
+            },
+            {
+              "id": "D",
+              "text": "Sự phản ánh hoàn toàn thụ động"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Ý thức phản ánh thế giới khách quan một cách tích cực, sáng tạo thông qua hoạt động của con người.",
+          "source": "Chương 2 · I.2.b · Bản chất của ý thức"
+        },
+        {
+          "id": "chuong-2-q06",
+          "question": "Ý thức tác động trở lại vật chất thông qua đâu?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Việc tách rời con người khỏi xã hội"
+            },
+            {
+              "id": "B",
+              "text": "Hoạt động thực tiễn của con người"
+            },
+            {
+              "id": "C",
+              "text": "Ý muốn thuần túy, không cần hành động"
+            },
+            {
+              "id": "D",
+              "text": "Sự phủ nhận các điều kiện khách quan"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Ý thức định hướng hoạt động; muốn biến đổi hiện thực, con người phải hành động trong những điều kiện vật chất cụ thể.",
+          "source": "Chương 2 · I.3 · Mối quan hệ giữa vật chất và ý thức"
+        },
+        {
+          "id": "chuong-2-q07",
+          "question": "Nguyên lý về mối liên hệ phổ biến đòi hỏi quan điểm nào trong nhận thức?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Quan điểm cô lập"
+            },
+            {
+              "id": "B",
+              "text": "Quan điểm phủ nhận mọi quan hệ"
+            },
+            {
+              "id": "C",
+              "text": "Quan điểm toàn diện"
+            },
+            {
+              "id": "D",
+              "text": "Quan điểm phiến diện"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Quan điểm toàn diện yêu cầu xem xét nhiều mặt, các quan hệ và sự tác động qua lại, đồng thời xác định mối liên hệ chủ yếu.",
+          "source": "Chương 2 · II.2.a · Hai nguyên lý của phép biện chứng duy vật"
+        },
+        {
+          "id": "chuong-2-q08",
+          "question": "Theo phép biện chứng duy vật, phát triển là quá trình vận động theo khuynh hướng nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lặp lại nguyên trạng, không có cái mới"
+            },
+            {
+              "id": "B",
+              "text": "Luôn giảm về chất lượng và trình độ"
+            },
+            {
+              "id": "C",
+              "text": "Chỉ tăng về số lượng, không đổi về chất"
+            },
+            {
+              "id": "D",
+              "text": "Từ thấp đến cao, từ kém hoàn thiện đến hoàn thiện hơn"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Phát triển là vận động theo khuynh hướng đi lên, có sự ra đời của cái mới; quá trình có thể quanh co, không tuyến tính.",
+          "source": "Chương 2 · II.2.a · Nguyên lý về sự phát triển"
+        },
+        {
+          "id": "chuong-2-q09",
+          "question": "Cái chung tồn tại như thế nào trong quan hệ với cái riêng?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Trong cái riêng và thông qua cái riêng"
+            },
+            {
+              "id": "B",
+              "text": "Hoàn toàn tách rời mọi cái riêng"
+            },
+            {
+              "id": "C",
+              "text": "Chỉ trong trí tưởng tượng, không có cơ sở khách quan"
+            },
+            {
+              "id": "D",
+              "text": "Thay thế hoàn toàn cái riêng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Cái chung không tồn tại biệt lập mà biểu hiện qua các sự vật, hiện tượng riêng biệt.",
+          "source": "Chương 2 · II.2.b · Cái riêng và cái chung"
+        },
+        {
+          "id": "chuong-2-q10",
+          "question": "Quan hệ nhân quả được hiểu đúng như thế nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kết quả không bao giờ tác động trở lại nguyên nhân"
+            },
+            {
+              "id": "B",
+              "text": "Sự tác động tạo nên một biến đổi xác định"
+            },
+            {
+              "id": "C",
+              "text": "Mọi sự kiện xảy ra trước đều là nguyên nhân"
+            },
+            {
+              "id": "D",
+              "text": "Hai sự kiện cùng xuất hiện luôn là nguyên nhân của nhau"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Nguyên nhân là sự tác động gây nên biến đổi; chỉ có thứ tự trước sau về thời gian thì chưa đủ xác định quan hệ nhân quả.",
+          "source": "Chương 2 · II.2.b · Nguyên nhân và kết quả"
+        },
+        {
+          "id": "chuong-2-q11",
+          "question": "Khái niệm độ chỉ điều gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sự phủ định hoàn toàn tính ổn định"
+            },
+            {
+              "id": "B",
+              "text": "Số lượng các sự vật trong vũ trụ"
+            },
+            {
+              "id": "C",
+              "text": "Giới hạn mà thay đổi về lượng chưa làm thay đổi căn bản về chất"
+            },
+            {
+              "id": "D",
+              "text": "Thời điểm mọi chất đều biến mất"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Trong giới hạn độ, sự vật vẫn giữ chất cơ bản của nó dù lượng biến đổi.",
+          "source": "Chương 2 · II.2.c · Quy luật lượng – chất"
+        },
+        {
+          "id": "chuong-2-q12",
+          "question": "Điểm nút là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mọi thay đổi nhỏ bất kỳ về lượng"
+            },
+            {
+              "id": "B",
+              "text": "Sự ngừng vận động tuyệt đối"
+            },
+            {
+              "id": "C",
+              "text": "Khoảng thời gian chất không thể thay đổi"
+            },
+            {
+              "id": "D",
+              "text": "Giới hạn tại đó biến đổi về lượng dẫn tới thay đổi về chất"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Khi lượng tích lũy đạt điểm nút, độ cũ bị phá vỡ và sự chuyển hóa về chất bắt đầu qua bước nhảy.",
+          "source": "Chương 2 · II.2.c · Quy luật lượng – chất"
+        },
+        {
+          "id": "chuong-2-q13",
+          "question": "Bước nhảy dùng để chỉ điều gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sự chuyển hóa về chất của sự vật"
+            },
+            {
+              "id": "B",
+              "text": "Mọi sự tăng dần về lượng trong độ"
+            },
+            {
+              "id": "C",
+              "text": "Sự lặp lại nguyên trạng của chất cũ"
+            },
+            {
+              "id": "D",
+              "text": "Một hoạt động chỉ có trong tư duy"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Bước nhảy là sự chuyển hóa chất do quá trình thay đổi về lượng trước đó tạo nên.",
+          "source": "Chương 2 · II.2.c · Quy luật lượng – chất"
+        },
+        {
+          "id": "chuong-2-q14",
+          "question": "Quy luật nào chỉ ra nguồn gốc và động lực của sự vận động, phát triển?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Quy luật di truyền"
+            },
+            {
+              "id": "B",
+              "text": "Thống nhất và đấu tranh của các mặt đối lập"
+            },
+            {
+              "id": "C",
+              "text": "Quy luật giá trị"
+            },
+            {
+              "id": "D",
+              "text": "Quy luật cung cầu"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Mâu thuẫn biện chứng và quá trình giải quyết mâu thuẫn là nguồn gốc, động lực của vận động và phát triển.",
+          "source": "Chương 2 · II.2.c · Quy luật thống nhất và đấu tranh của các mặt đối lập"
+        },
+        {
+          "id": "chuong-2-q15",
+          "question": "Phủ định biện chứng có những đặc trưng cơ bản nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tính bất biến và tính cô lập"
+            },
+            {
+              "id": "B",
+              "text": "Tính chủ quan và tính ngẫu hứng"
+            },
+            {
+              "id": "C",
+              "text": "Tính khách quan và tính kế thừa"
+            },
+            {
+              "id": "D",
+              "text": "Tính tùy tiện và sự xóa bỏ sạch trơn"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Phủ định biện chứng xuất phát từ sự phát triển của sự vật và giữ lại, cải biến các yếu tố tích cực của cái cũ.",
+          "source": "Chương 2 · II.2.c · Quy luật phủ định của phủ định"
+        },
+        {
+          "id": "chuong-2-q16",
+          "question": "Thực tiễn là loại hoạt động nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mọi suy nghĩ thầm kín của cá nhân"
+            },
+            {
+              "id": "B",
+              "text": "Chỉ là hoạt động nghiên cứu lý thuyết"
+            },
+            {
+              "id": "C",
+              "text": "Chỉ là phản xạ sinh học tự nhiên"
+            },
+            {
+              "id": "D",
+              "text": "Hoạt động vật chất có mục đích, mang tính lịch sử – xã hội"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Thực tiễn là hoạt động vật chất có mục đích của con người nhằm cải biến tự nhiên và xã hội, mang tính lịch sử – xã hội.",
+          "source": "Chương 2 · III.2.b · Thực tiễn và vai trò của thực tiễn đối với nhận thức"
+        },
+        {
+          "id": "chuong-2-q17",
+          "question": "Ba hình thức của nhận thức cảm tính là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cảm giác, tri giác, biểu tượng"
+            },
+            {
+              "id": "B",
+              "text": "Khái niệm, phán đoán, suy lý"
+            },
+            {
+              "id": "C",
+              "text": "Giả thuyết, định luật, học thuyết"
+            },
+            {
+              "id": "D",
+              "text": "Phân tích, tổng hợp, khái quát hóa"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nhận thức cảm tính phản ánh đối tượng qua giác quan, với ba hình thức cảm giác, tri giác và biểu tượng.",
+          "source": "Chương 2 · III.2.c · Các giai đoạn cơ bản của quá trình nhận thức"
+        },
+        {
+          "id": "chuong-2-q18",
+          "question": "Tiêu chuẩn để kiểm tra chân lý là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Cảm giác chắc chắn của cá nhân"
+            },
+            {
+              "id": "B",
+              "text": "Thực tiễn"
+            },
+            {
+              "id": "C",
+              "text": "Số người đồng ý"
+            },
+            {
+              "id": "D",
+              "text": "Uy tín của người phát biểu"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Tri thức phải được kiểm nghiệm trong thực tiễn; sự đồng thuận hay uy tín không tự nó chứng minh chân lý.",
+          "source": "Chương 2 · III.2.b · Vai trò của thực tiễn đối với nhận thức"
+        }
+      ]
+    },
+    {
+      "id": "chuong-3",
+      "title": "Chủ nghĩa duy vật lịch sử",
+      "description": "Sản xuất, giai cấp, nhà nước, ý thức xã hội và con người.",
+      "questions": [
+        {
+          "id": "chuong-3-q01",
+          "question": "Phương thức sản xuất là sự thống nhất giữa những yếu tố nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Lực lượng sản xuất và quan hệ sản xuất"
+            },
+            {
+              "id": "B",
+              "text": "Pháp luật và đạo đức"
+            },
+            {
+              "id": "C",
+              "text": "Dân số và lãnh thổ"
+            },
+            {
+              "id": "D",
+              "text": "Tôn giáo và nghệ thuật"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Phương thức sản xuất kết hợp lực lượng sản xuất ở trình độ nhất định với quan hệ sản xuất tương ứng.",
+          "source": "Chương 3 · I.2.a · Phương thức sản xuất"
+        },
+        {
+          "id": "chuong-3-q02",
+          "question": "Lực lượng sản xuất bao gồm những yếu tố cơ bản nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chỉ máy móc, không có con người"
+            },
+            {
+              "id": "B",
+              "text": "Người lao động và tư liệu sản xuất"
+            },
+            {
+              "id": "C",
+              "text": "Nhà nước và pháp luật"
+            },
+            {
+              "id": "D",
+              "text": "Tôn giáo và tín ngưỡng"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Lực lượng sản xuất là sự kết hợp người lao động với tư liệu sản xuất, tạo ra năng lực sản xuất của xã hội.",
+          "source": "Chương 3 · I.2.a · Lực lượng sản xuất"
+        },
+        {
+          "id": "chuong-3-q03",
+          "question": "Trong các mặt của quan hệ sản xuất, quan hệ nào giữ vai trò quyết định?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Quan hệ huyết thống"
+            },
+            {
+              "id": "B",
+              "text": "Quan hệ giữa các vùng khí hậu"
+            },
+            {
+              "id": "C",
+              "text": "Quan hệ sở hữu về tư liệu sản xuất"
+            },
+            {
+              "id": "D",
+              "text": "Quan hệ láng giềng"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Sở hữu tư liệu sản xuất quy định địa vị các tập đoàn người, chi phối quan hệ tổ chức quản lý và phân phối.",
+          "source": "Chương 3 · I.2.a · Quan hệ sản xuất"
+        },
+        {
+          "id": "chuong-3-q04",
+          "question": "Quan hệ sản xuất cần phù hợp với điều gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ý muốn bất kỳ của một cá nhân"
+            },
+            {
+              "id": "B",
+              "text": "Mọi tập quán cũ, dù đã lỗi thời"
+            },
+            {
+              "id": "C",
+              "text": "Một khuôn mẫu không đổi cho mọi xã hội"
+            },
+            {
+              "id": "D",
+              "text": "Trình độ phát triển của lực lượng sản xuất"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Lực lượng sản xuất quyết định quan hệ sản xuất; quan hệ sản xuất phù hợp tạo điều kiện cho lực lượng sản xuất phát triển.",
+          "source": "Chương 3 · I.2.b · Biện chứng giữa lực lượng sản xuất và quan hệ sản xuất"
+        },
+        {
+          "id": "chuong-3-q05",
+          "question": "Cơ sở hạ tầng trong chủ nghĩa duy vật lịch sử là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Toàn bộ quan hệ sản xuất hợp thành cơ cấu kinh tế xã hội"
+            },
+            {
+              "id": "B",
+              "text": "Chỉ hệ thống đường sá, cầu cống"
+            },
+            {
+              "id": "C",
+              "text": "Toàn bộ quan điểm chính trị và tôn giáo"
+            },
+            {
+              "id": "D",
+              "text": "Chỉ hệ thống trường học"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Khái niệm triết học này chỉ cơ cấu các quan hệ sản xuất, khác với cách dùng thường ngày về công trình hạ tầng.",
+          "source": "Chương 3 · I.3.a · Cơ sở hạ tầng và kiến trúc thượng tầng"
+        },
+        {
+          "id": "chuong-3-q06",
+          "question": "Mối quan hệ cơ bản giữa cơ sở hạ tầng và kiến trúc thượng tầng là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Kiến trúc thượng tầng sinh ra mọi điều kiện vật chất"
+            },
+            {
+              "id": "B",
+              "text": "Cơ sở hạ tầng quyết định, kiến trúc thượng tầng tác động trở lại"
+            },
+            {
+              "id": "C",
+              "text": "Kiến trúc thượng tầng hoàn toàn không liên quan cơ sở hạ tầng"
+            },
+            {
+              "id": "D",
+              "text": "Hai mặt luôn đồng nhất với nhau"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cơ sở kinh tế quyết định sự hình thành, biến đổi của kiến trúc thượng tầng; kiến trúc thượng tầng có tính độc lập tương đối và tác động trở lại.",
+          "source": "Chương 3 · I.3.b · Biện chứng giữa cơ sở hạ tầng và kiến trúc thượng tầng"
+        },
+        {
+          "id": "chuong-3-q07",
+          "question": "Đặc trưng nào giữ vai trò quyết định để phân biệt các giai cấp?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Nơi cư trú ở thành phố hay nông thôn"
+            },
+            {
+              "id": "B",
+              "text": "Màu sắc trang phục"
+            },
+            {
+              "id": "C",
+              "text": "Quan hệ của họ đối với tư liệu sản xuất"
+            },
+            {
+              "id": "D",
+              "text": "Sở thích cá nhân"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Trong các dấu hiệu giai cấp, quan hệ sở hữu tư liệu sản xuất giữ vai trò quyết định đối với địa vị kinh tế – xã hội.",
+          "source": "Chương 3 · II.1.a · Giai cấp"
+        },
+        {
+          "id": "chuong-3-q08",
+          "question": "Các hình thức cộng đồng người trước dân tộc được trình bày theo thứ tự nào?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Bộ tộc, thị tộc, bộ lạc"
+            },
+            {
+              "id": "B",
+              "text": "Gia đình, nhà nước, quốc tế"
+            },
+            {
+              "id": "C",
+              "text": "Bộ lạc, dân tộc, thị tộc"
+            },
+            {
+              "id": "D",
+              "text": "Thị tộc, bộ lạc, bộ tộc"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Giáo trình trình bày các cộng đồng người theo tiến trình thị tộc, bộ lạc, bộ tộc rồi đến dân tộc.",
+          "source": "Chương 3 · II.2.a · Các hình thức cộng đồng người trước khi hình thành dân tộc"
+        },
+        {
+          "id": "chuong-3-q09",
+          "question": "Theo quan điểm Mác – Lênin, nguồn gốc trực tiếp của nhà nước là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Mâu thuẫn giai cấp không thể điều hòa được"
+            },
+            {
+              "id": "B",
+              "text": "Sự thỏa thuận tùy ý giữa mọi cá nhân"
+            },
+            {
+              "id": "C",
+              "text": "Sự tồn tại của con người nói chung"
+            },
+            {
+              "id": "D",
+              "text": "Nhu cầu giải trí của cộng đồng"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Nhà nước ra đời khi mâu thuẫn giai cấp trở nên không thể điều hòa; không phải mọi xã hội đều có nhà nước.",
+          "source": "Chương 3 · III.1.a · Nguồn gốc của nhà nước"
+        },
+        {
+          "id": "chuong-3-q10",
+          "question": "Theo nghĩa rộng, cách mạng xã hội là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chỉ sự phát minh một thiết bị mới"
+            },
+            {
+              "id": "B",
+              "text": "Sự biến đổi căn bản về chất trong toàn bộ các lĩnh vực đời sống xã hội"
+            },
+            {
+              "id": "C",
+              "text": "Mọi thay đổi nhỏ trong một cơ quan"
+            },
+            {
+              "id": "D",
+              "text": "Việc thay một người quản lý nhưng giữ nguyên chế độ"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Cách mạng xã hội là bước chuyển căn bản về chất, thay thế hình thái kinh tế – xã hội cũ bằng hình thái cao hơn.",
+          "source": "Chương 3 · III.2 · Cách mạng xã hội"
+        },
+        {
+          "id": "chuong-3-q11",
+          "question": "Tồn tại xã hội bao gồm điều gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Chỉ các giá trị nghệ thuật"
+            },
+            {
+              "id": "B",
+              "text": "Toàn bộ cảm xúc riêng tư"
+            },
+            {
+              "id": "C",
+              "text": "Sinh hoạt vật chất và các điều kiện sinh hoạt vật chất của xã hội"
+            },
+            {
+              "id": "D",
+              "text": "Chỉ các học thuyết chính trị"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Tồn tại xã hội là phương diện vật chất của đời sống xã hội, được ý thức xã hội phản ánh.",
+          "source": "Chương 3 · IV.1.a · Tồn tại xã hội"
+        },
+        {
+          "id": "chuong-3-q12",
+          "question": "Trong các yếu tố của tồn tại xã hội, yếu tố nào cơ bản nhất?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Sở thích thẩm mỹ"
+            },
+            {
+              "id": "B",
+              "text": "Một học thuyết tôn giáo"
+            },
+            {
+              "id": "C",
+              "text": "Tâm trạng nhất thời của cộng đồng"
+            },
+            {
+              "id": "D",
+              "text": "Phương thức sản xuất vật chất"
+            }
+          ],
+          "correctAnswer": "D",
+          "explanation": "Phương thức sản xuất vật chất giữ vai trò cơ bản, quyết định trong tồn tại xã hội, bên cạnh điều kiện tự nhiên và dân số.",
+          "source": "Chương 3 · IV.1.b · Các yếu tố cơ bản của tồn tại xã hội"
+        },
+        {
+          "id": "chuong-3-q13",
+          "question": "Biểu hiện nào cho thấy tính độc lập tương đối của ý thức xã hội?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Ý thức xã hội có thể lạc hậu hoặc vượt trước tồn tại xã hội"
+            },
+            {
+              "id": "B",
+              "text": "Ý thức xã hội hoàn toàn không có nguồn gốc vật chất"
+            },
+            {
+              "id": "C",
+              "text": "Mọi tư tưởng thay đổi tức thời khi kinh tế thay đổi"
+            },
+            {
+              "id": "D",
+              "text": "Ý thức xã hội không tác động tới đời sống xã hội"
+            }
+          ],
+          "correctAnswer": "A",
+          "explanation": "Ý thức xã hội có tính kế thừa, có nhịp độ biến đổi riêng và có thể tác động trở lại tồn tại xã hội.",
+          "source": "Chương 3 · IV.3 · Tính độc lập tương đối của ý thức xã hội"
+        },
+        {
+          "id": "chuong-3-q14",
+          "question": "Theo C. Mác, trong tính hiện thực, bản chất con người là gì?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Tổng số tài sản cá nhân sở hữu"
+            },
+            {
+              "id": "B",
+              "text": "Tổng hòa những quan hệ xã hội"
+            },
+            {
+              "id": "C",
+              "text": "Chỉ cấu trúc sinh học"
+            },
+            {
+              "id": "D",
+              "text": "Một bản tính trừu tượng không bao giờ thay đổi"
+            }
+          ],
+          "correctAnswer": "B",
+          "explanation": "Luận điểm nhấn mạnh bản chất xã hội, lịch sử của con người; không phủ nhận tiền đề tự nhiên, sinh học.",
+          "source": "Chương 3 · V.1 · Khái niệm con người và bản chất con người"
+        },
+        {
+          "id": "chuong-3-q15",
+          "question": "Theo chủ nghĩa duy vật lịch sử, lực lượng nào giữ vai trò quyết định trong sáng tạo lịch sử?",
+          "options": [
+            {
+              "id": "A",
+              "text": "Các lực lượng siêu nhiên"
+            },
+            {
+              "id": "B",
+              "text": "Chỉ những người sở hữu nhiều tài sản"
+            },
+            {
+              "id": "C",
+              "text": "Quần chúng nhân dân"
+            },
+            {
+              "id": "D",
+              "text": "Chỉ một cá nhân kiệt xuất"
+            }
+          ],
+          "correctAnswer": "C",
+          "explanation": "Quần chúng nhân dân sáng tạo của cải vật chất, giá trị tinh thần và là lực lượng quyết định của cách mạng; lãnh tụ giữ vai trò quan trọng.",
+          "source": "Chương 3 · V.3.b · Vai trò của quần chúng nhân dân và lãnh tụ"
+        }
+      ]
+    }
+  ]
+}
